@@ -1,6 +1,6 @@
 package com.git1.beans;
 
-public class F2 {
+public class Fy {
 
 	public void Y()
 	{
